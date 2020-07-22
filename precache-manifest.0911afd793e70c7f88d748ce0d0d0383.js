@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c5206f7cfd3d5f875e4b",
+    "revision": "dd52bad8c73abecede73",
     "url": "/Cornell-Club/static/css/main.9ddf93c1.chunk.css"
   },
   {
-    "revision": "c5206f7cfd3d5f875e4b",
-    "url": "/Cornell-Club/static/js/main.c5206f7c.chunk.js"
+    "revision": "dd52bad8c73abecede73",
+    "url": "/Cornell-Club/static/js/main.dd52bad8.chunk.js"
   },
   {
     "revision": "5af9c9776e2d211f9899",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Cornell-Club/static/js/runtime~main.ef6e6df1.js"
   },
   {
-    "revision": "6dabbc3eebfe31555b4bdf3e4a682b1e",
+    "revision": "b2c120c8b36741c4a7ab794246547911",
     "url": "/Cornell-Club/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Cornell-Club/precache-manifest.5f078f2657bcd8043da1c73c80172667.js"
+  "/Cornell-Club/precache-manifest.0911afd793e70c7f88d748ce0d0d0383.js"
 );
 
 workbox.clientsClaim();
