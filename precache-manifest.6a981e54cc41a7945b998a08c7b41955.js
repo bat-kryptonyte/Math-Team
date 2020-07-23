@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "27a078ebe9ead76e7235",
+    "revision": "56b6f88516b548d2442e",
     "url": "/Math-Team/static/css/main.68ce7322.chunk.css"
   },
   {
-    "revision": "27a078ebe9ead76e7235",
-    "url": "/Math-Team/static/js/main.27a078eb.chunk.js"
+    "revision": "56b6f88516b548d2442e",
+    "url": "/Math-Team/static/js/main.56b6f885.chunk.js"
   },
   {
     "revision": "07ddfcf9b15537b01642",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Math-Team/static/js/runtime~main.849e1faa.js"
   },
   {
-    "revision": "1fc23a9d68f4a9f625536ef03b18b5ac",
+    "revision": "efbdf26adc76cf2230510d2dc6b2ce64",
     "url": "/Math-Team/index.html"
   }
 ];
