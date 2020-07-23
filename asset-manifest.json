@@ -1,7 +1,7 @@
 {
   "main.css": "/Math-Team/static/css/main.68ce7322.chunk.css",
-  "main.js": "/Math-Team/static/js/main.5e86c148.chunk.js",
-  "main.js.map": "/Math-Team/static/js/main.5e86c148.chunk.js.map",
+  "main.js": "/Math-Team/static/js/main.0a13f41d.chunk.js",
+  "main.js.map": "/Math-Team/static/js/main.0a13f41d.chunk.js.map",
   "static/css/1.c9f401cf.chunk.css": "/Math-Team/static/css/1.c9f401cf.chunk.css",
   "static/js/1.07ddfcf9.chunk.js": "/Math-Team/static/js/1.07ddfcf9.chunk.js",
   "static/js/1.07ddfcf9.chunk.js.map": "/Math-Team/static/js/1.07ddfcf9.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.c9f401cf.chunk.css.map": "/Math-Team/static/css/1.c9f401cf.chunk.css.map",
   "static/css/main.68ce7322.chunk.css.map": "/Math-Team/static/css/main.68ce7322.chunk.css.map",
   "index.html": "/Math-Team/index.html",
-  "precache-manifest.6478e77cc48a54171455ff87dcba596c.js": "/Math-Team/precache-manifest.6478e77cc48a54171455ff87dcba596c.js",
+  "precache-manifest.d480abe1fef8baf1ab28d63d57424da1.js": "/Math-Team/precache-manifest.d480abe1fef8baf1ab28d63d57424da1.js",
   "service-worker.js": "/Math-Team/service-worker.js"
 }
