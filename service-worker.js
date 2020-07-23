@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Cornell-Club/precache-manifest.b24d693d7ac8a9f092e9168b97d7a467.js"
+  "/Math-Team/precache-manifest.21d8a1ea6db12a9d2b3c3bf8c6071bc2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Cornell-Club/index.html", {
+workbox.routing.registerNavigationRoute("/Math-Team/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
