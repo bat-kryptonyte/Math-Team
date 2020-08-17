@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.68ce7322.chunk.css",
-  "main.js": "/static/js/main.9bea1104.chunk.js",
-  "main.js.map": "/static/js/main.9bea1104.chunk.js.map",
-  "static/css/1.c9f401cf.chunk.css": "/static/css/1.c9f401cf.chunk.css",
-  "static/js/1.0f322079.chunk.js": "/static/js/1.0f322079.chunk.js",
-  "static/js/1.0f322079.chunk.js.map": "/static/js/1.0f322079.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.68ce7322.chunk.css.map": "/static/css/main.68ce7322.chunk.css.map",
-  "static/css/1.c9f401cf.chunk.css.map": "/static/css/1.c9f401cf.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.2db5fa0a71c8367f86bf0a9f2d9954f3.js": "/precache-manifest.2db5fa0a71c8367f86bf0a9f2d9954f3.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/Math-Team/static/css/main.68ce7322.chunk.css",
+  "main.js": "/Math-Team/static/js/main.37ee21f5.chunk.js",
+  "main.js.map": "/Math-Team/static/js/main.37ee21f5.chunk.js.map",
+  "static/css/1.c9f401cf.chunk.css": "/Math-Team/static/css/1.c9f401cf.chunk.css",
+  "static/js/1.07ddfcf9.chunk.js": "/Math-Team/static/js/1.07ddfcf9.chunk.js",
+  "static/js/1.07ddfcf9.chunk.js.map": "/Math-Team/static/js/1.07ddfcf9.chunk.js.map",
+  "runtime~main.js": "/Math-Team/static/js/runtime~main.849e1faa.js",
+  "runtime~main.js.map": "/Math-Team/static/js/runtime~main.849e1faa.js.map",
+  "static/css/1.c9f401cf.chunk.css.map": "/Math-Team/static/css/1.c9f401cf.chunk.css.map",
+  "static/css/main.68ce7322.chunk.css.map": "/Math-Team/static/css/main.68ce7322.chunk.css.map",
+  "index.html": "/Math-Team/index.html",
+  "precache-manifest.115868446284232c40cd26f656c9b8e1.js": "/Math-Team/precache-manifest.115868446284232c40cd26f656c9b8e1.js",
+  "service-worker.js": "/Math-Team/service-worker.js"
 }
