@@ -2,7 +2,7 @@ let webData = {
     "role": "",
     "name": "San Marino Math Team",
     "addr": "2701 Huntington Dr, San Marino, CA 91108",
-    "email": "smmathteam(at)gmail.com",
+    "email": "sanmarinomath(at)gmail(dot)com",
     "socialLinks":[
         {
           "name":"linkedin",
