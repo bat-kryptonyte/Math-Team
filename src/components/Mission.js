@@ -18,7 +18,6 @@ export default  class Mission extends Component {
                             {item.specialization}
                             
                           </p>
-                          <a href="https://airtable.com/shrfQg0eWjQAp7qoN/"><img alt="Apply" src="images/profilepic1.jpg"  ></img></a>
                       
 
                        </div>
