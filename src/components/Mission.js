@@ -16,7 +16,7 @@ export default  class Mission extends Component {
                           <br></br>
                           <p className="info">
                             {item.specialization}
-                            
+                            <a href="https://forms.gle/exrLS282Arsbpetu6">Submit your answers to Puzzle Festival here!</a>
                           </p>
                       
 
