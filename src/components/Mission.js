@@ -16,7 +16,7 @@ export default  class Mission extends Component {
                           <br></br>
                           <p className="info">
                             {item.specialization}
-                            <a href="https://forms.gle/exrLS282Arsbpetu6">Submit your answers to Puzzle Festival here!</a>
+                            <a href="https://sanmarinohs.myschoolcentral.com/asbworks/(S(fc1x52hcofp4jgixczskauy0))/apps/webstore/pages/WebStore.aspx?org=668"><br></br><br></br>Register for the 2021 AMC 10/12 (American Mathematic Competitions) here!</a>
                           </p>
                       
 
